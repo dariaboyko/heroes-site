@@ -140,4 +140,7 @@ and (max-width: 760px){
     width: 100%;
     padding: 10px 0;
   }
+  .form{
+    width: auto;
+  }
 }
