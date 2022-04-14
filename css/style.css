@@ -131,6 +131,7 @@ and (min-width: 0)
 and (max-width: 760px){
   .wrapper{
     flex-direction: column;
+    padding: 0;
   }
   .wrapper__filters{
     margin: 0 auto;
